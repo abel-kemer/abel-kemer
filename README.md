@@ -2,7 +2,6 @@
 - 👀 I’m interested in Mobile Application Development, AI, ML & Web
 - 🌱 I’m currently learning iOS Development
 - 💞️ I’m looking to collaborate on Android & Flutter
-- 📫 How to reach me https://www.linkedin.com/in/abmorphious/
 
 <!---
 abel-kemer/abel-kemer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
